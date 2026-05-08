@@ -20,9 +20,9 @@
 
 ## 🛠️ Tech Stack
 
-*   **Backend**: PHP 8.x
+*   **Backend**: PHP 
 *   **Database**: MySQL (PDO for security)
-*   **Frontend**: HTML5, CSS3 (Vanilla + Modern CSS Variables), JavaScript (ES6+)
+*   **Frontend**: HTML, CSS, JavaScript
 *   **Icons/Fonts**: Outfit & Inter (Google Fonts), Lucide-style emojis
 
 ---
