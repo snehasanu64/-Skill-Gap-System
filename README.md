@@ -52,9 +52,9 @@ To run this project locally using WAMP, XAMPP, or MAMP:
 
 ## 📸 Screenshots
 
-| Landing Page | Analysis Result |
+| 🏠 Landing Page | 📊 Skill Analysis Result |
 | :--- | :--- |
-| ![Landing](https://via.placeholder.com/400x250?text=Landing+Page+Preview) | ![Result](https://via.placeholder.com/400x250?text=Analysis+Result+Preview) |
+| <img src="https://github.com/user-attachments/assets/0381fed9-c653-4673-a6c1-f0c5d9a6d1f1" width="100%" alt="Landing Page Preview" /> | <img src="https://github.com/user-attachments/assets/08a06c0a-6785-464a-a079-5fedbf9b04fa" width="100%" alt="Analysis Result Preview" /> |
 
 ---
 
