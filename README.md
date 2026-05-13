@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 *   **Backend**: PHP 
-*   **Database**: MySQL (PDO for security)
+*   **Database**: MySQL 
 *   **Frontend**: HTML, CSS, JavaScript
 *   **Icons/Fonts**: Outfit & Inter (Google Fonts), Lucide-style emojis
 
