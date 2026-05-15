@@ -6,6 +6,8 @@
 
 **Skill Gap System** is a modern, intelligent career planning platform designed to help professionals and students bridge the gap between their current skill set and their dream job. By analyzing industry requirements against user input, it generates a personalized learning roadmap with specific milestones and resources.
 
+👉 **[Try it live](https://skillgapsystem.great-site.net/skill_gap_analyzer/index.php)**
+
 ---
 
 ## ✨ Key Features
